@@ -1,5 +1,7 @@
 # Image Editor for Froala
 
+[See on GitHub](https://github.com/edsdk/froala-image-editor)
+
 This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc..
 
 It easily installs into Froala and seamlessly interacts with your file uploader, but will also perfectly extend [Froala File Manager](https://froala-file-manager.com) if you have it. 
