@@ -2,7 +2,7 @@
 
 [See on GitHub](https://github.com/edsdk/froala-image-editor)
 
-This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc..
+This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc.
 
 It easily installs into Froala and seamlessly interacts with your file uploader, but will also perfectly extend [Froala File Manager](https://froala-file-manager.com) if you have it. 
 
@@ -10,7 +10,7 @@ It easily installs into Froala and seamlessly interacts with your file uploader,
 
 Install this image editor for Froala as any other Froala plugin.
 
-Include the script into your document near the place where you include main script of Froala:
+Include the script into your document near the place where you include the main script of Froala:
 
 ```javascript
 <script src="https://cdn.jsdelivr.net/gh/edsdk/froala-image-editor@latest/js/froala-image-editor.js"></script>
@@ -35,7 +35,7 @@ This key you will receive after purchasing the commercial license.
 
 ## Pricing
 
-ImgPen comes together with Flmngr file manager and requires the annual subscription with the price of **$99 and lower** per each website depending of the number of websites you use it on. Please install ImgPen plugin into your Froala and it will lead you to payment. 
+ImgPen comes together with Flmngr file manager and requires the annual subscription with the price of **$99 and lower** per website depending on the number of websites you use it on. Please install ImgPen plugin into your Froala and it will lead you to payment.
 
 *Note*: one license is for one domain you publish content on (not for the domain used for editing). One domain is limited with 15 users (special pricing for big projects). We successfully collaborate with SaaS projects and will give you discounted bulk pricing - just ask for a quote writing to [support](mailto:support@n1ed.zendesk.com).
 
