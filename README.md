@@ -3,6 +3,7 @@
 [See on GitHub](https://github.com/edsdk/froala-image-editor)
 
 ![Image editor for Froala](https://n1ed.com/img/screenshots/docs/addons/image-editor/froala-imgpen.png)
+
 [See demo](https://codepen.io/N1ED/pen/poNwPgo)
 
 This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc.
