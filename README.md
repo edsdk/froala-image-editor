@@ -22,7 +22,7 @@
 
 This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc.
 
-It easily installs into Froala and seamlessly interacts with your file uploader, but will also perfectly extend [Froala File Manager](https://froala-file-manager.com) if you have it. 
+It easily installs into Froala and seamlessly interacts with your file uploader provided by [Froala File Manager](https://flmngr.com/doc/install-froala-plugin) if you have it. We strongly recommend using this image editor with the file manager.
 
 ## Installation
 
@@ -31,7 +31,7 @@ Install this image editor for Froala as any other Froala plugin.
 Include the script into your document near the place where you include the main script of Froala:
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/edsdk/froala-image-editor@latest/js/froala-image-editor.js"></script>
+<script src="https://cloud.n1ed.com/v/latest/froala/froala-image-editor.js"></script>
 ```
 
 That's all.
@@ -39,7 +39,7 @@ That's all.
 
 ## Configuration
 
-There is nothing to configure, it will work from the scratch. But if you get the premium license but do not use [Froala File Manager](https://froala-file-manager.com) please pass `ImgPen.apiKey` parameter to the Froala configuration. Like this:
+There is nothing to configure, it will work from the scratch. Just pass your API key after your had obtained it:
 
 ```javascript
 FroalaEditor('#editor', {
@@ -49,17 +49,10 @@ FroalaEditor('#editor', {
 });
 ```
 
-This key you will receive after purchasing the commercial license.
-
-## Pricing
-
-ImgPen comes together with Flmngr file manager and requires the annual subscription with the price of **$99 and lower** per website depending on the number of websites you use it on. Please install ImgPen plugin into your Froala and it will lead you to payment.
-
-*Note*: one license is for one domain you publish content on (not for the domain used for editing). One domain is limited with 15 users (special pricing for big projects). We successfully collaborate with SaaS projects and will give you discounted bulk pricing - just ask for a quote writing to [support](mailto:support@helpdesk.edsdk.com).
 
 ## Who we are
 
-ImgPen is the image editor developed by [EdSDK/N1ED](https://n1ed.com) team.
-We work on the tools for WYSIWYG editors such as CKEditor and TinyMCE for about 10 years.
+ImgPen is a part of the [Flmngr](https://flmngr.com) file manager developed by [EdSDK](https://edsdk.com) team, whose the primary product is [N1ED](https://n1ed.com).
+We work on the tools for WYSIWYG editors such as CKEditor and TinyMCE about 20 years and support Froala now as well.
 
-We've ported ImgPen image editor and [Flmngr file manager](https://froala-file-manager.com) to Froala after a number of user requests and hope you will love it and support us by purchasing a commercial license.
+We've ported Flmngr file manager with image editor to Froala after a number of user requests and hope you will love it and support us by purchasing a commercial license unlocking a lot of handy features.
