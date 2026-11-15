@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://imgpen.com/"><img src="https://imgpen.com/img/ImgPen.png" alt="ImgPen" width="90" /></a>
+    <a href="https://imgpen.com/"><img src="https://imgpen.com/img/ImgPen.png" alt="Image42" width="90" /></a>
 </p>
 
 <h1 align="center">Froala image editor</h1>
@@ -20,7 +20,7 @@
 
 ## Intro
 
-This is ImgPen image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc.
+This is Image42 (formerly ImgPen) image editor add-on for Froala WYSIWYG editor. It will give you a set of tools for easy editing images: cropping, resizing, adding a text, drawing, applying some filters, etc.
 
 It easily installs into Froala and seamlessly interacts with your file uploader provided by [Froala File Manager](https://flmngr.com/doc/install-froala-plugin) if you have it. We strongly recommend using this image editor with the file manager.
 
@@ -52,7 +52,7 @@ FroalaEditor('#editor', {
 
 ## Who we are
 
-ImgPen is a part of the [Flmngr](https://flmngr.com) file manager developed by [EdSDK](https://edsdk.com) team, whose the primary product is [N1ED](https://n1ed.com).
+Image42 is a part of the [Flmngr](https://flmngr.com) file manager developed by [EdSDK](https://edsdk.com) team, whose the primary product is [N1ED](https://n1ed.com).
 We work on the tools for WYSIWYG editors such as CKEditor and TinyMCE about 20 years and support Froala now as well.
 
 We've ported Flmngr file manager with image editor to Froala after a number of user requests and hope you will love it and support us by purchasing a commercial license unlocking a lot of handy features.
